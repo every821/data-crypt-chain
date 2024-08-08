@@ -8,8 +8,6 @@ Patient can grant or revoke data access permission to/from any doctor. Patients 
 
 Doctors are provided with facility to view the patient records to which they have access granted. Doctors can view their patients' files and previous consultations too and can accordingly provide consultation or treatment.
 
-![](./client/src/Components/Images/doc-patient.jpg)
-
 ## To run this project kindly install following prerequisites :
 
 * "Truffle" v5.1.20
